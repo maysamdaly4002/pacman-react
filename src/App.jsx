@@ -149,7 +149,7 @@ function App() {
   return (
     <div className="app">
       <header className="hud">
-        <h1>PAC-REACT</h1>
+        <h1>pacman DevOps </h1>
         <span className="score">Score: {score}</span>
       </header>
 
