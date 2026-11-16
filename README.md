@@ -15,4 +15,4 @@ A playable Pacman game built with React and Vite, deployed automatically with Gi
 
 Every push to `main` runs the CI (lint + build), then deploys `dist/` to the server over SSH/rsync.
 
-Live site: http://IP_DU_SERVEUR
+Live site: http://187.55.225.38
